@@ -13,6 +13,7 @@ const App = () => {
     SplashScreen.hide();
   }, []);
   return (
+    
     <NavigationContainer>
       <Stack.Navigator screenOptions={{headerShown: false}}>
         <Stack.Screen

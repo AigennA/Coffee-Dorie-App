@@ -1,4 +1,18 @@
 {
   "name": "Coffee_Shop_App",
-  "displayName": "Coffee House"
+  "displayName": "Coffee House",
+  "android": {
+    "package": "com.anonymous.coffee_shop_app",
+    "splash": {
+    "image": "./assets/images/splash.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "backgroundColor": "#FEF9B0"
+    },
+     "icon": "./assets/images/icon.png"
+    
+    
+  }
+    
+  }
 }
