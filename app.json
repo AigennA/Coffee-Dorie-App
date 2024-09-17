@@ -1,4 +1,12 @@
 {
-  "name": "Coffee_Shop_App",
-  "displayName": "Coffee House"
+  "name": "CoffeeDorie",
+  "displayName": "Coffee Dorie",
+  "android": {
+    "package": "com.anonymous.coffee_dorie",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "backgroundColor": "#FEF9B0"
+    },
+    "icon": "./assets/images/icon.png"
+  }
 }
